@@ -4,11 +4,13 @@
 
 ---
 
-Live Link: [WalletWise Bot](https://t.me/walletwise_bot)
-Demo Video: [WalletWise Demo](https://youtu.be/VfdlxrKklHQ)
+Live Link: [WalletWise Bot](https://t.me/walletwise25_bot)
 
 ---
 
+Demo Video: [WalletWise Demo](https://youtu.be/VfdlxrKklHQ)
+
+---
 
 ## 🚀 Features
 
@@ -47,3 +49,7 @@ Demo Video: [WalletWise Demo](https://youtu.be/VfdlxrKklHQ)
    - A tweet version is also generated and sent
 
 ---
+
+## Screenshot
+
+<img width="1065" height="717" alt="Screenshot 2025-08-03 at 8 59 30 PM" src="https://github.com/user-attachments/assets/30f51d8f-08b9-4bd9-83a8-73cb7c550063" />
